@@ -34,5 +34,5 @@ python -m deng_cell_audit demo --out results/demo
 
 正式 M4 的 471 筆資料尚未在這個公開候選中重新整合。私人研究的模型使用狀態仍維持 HOLD；此候選不改變正式提交、fallback 或來源認證。
 
-[方法與限制](docs/METHODS.md) · [資料契約](docs/DATA_CONTRACT.md) · [驗證紀錄](docs/VALIDATION.md) · [GitHub 發布步驟](docs/PUBLISH_ZH.md)
+[方法與限制](docs/METHODS.md) · [資料契約](docs/DATA_CONTRACT.md) · [驗證紀錄](docs/VALIDATION.md)
 

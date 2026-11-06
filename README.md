@@ -6,7 +6,7 @@ Offline tools for checking control-cell statistics, count transformations, store
 
 **DENG Cell Audit — by ARiN.** The project name is DENG Cell Audit; the author/copyright-holder name is ARiN. The distribution and CLI are `deng-cell-audit`, and the Python module is `deng_cell_audit`. See the [canonical naming table](docs/NAMING.md) for the intended GitHub namespace and release filenames.
 
-[繁體中文](README.zh-TW.md) · [Methods](docs/METHODS.md) · [Data contract](docs/DATA_CONTRACT.md) · [Validation](docs/VALIDATION.md) · [Release steps](docs/PUBLISH_ZH.md)
+[繁體中文](README.zh-TW.md) · [Methods](docs/METHODS.md) · [Data contract](docs/DATA_CONTRACT.md) · [Validation](docs/VALIDATION.md)
 
 ## What works
 

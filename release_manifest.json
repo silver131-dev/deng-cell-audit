@@ -29,12 +29,12 @@
       "sha256": "92523efa2a035dc5dc5c333f89ff16ae8223aed8e70e74cbfcda34b7281aab49"
     },
     "README.md": {
-      "bytes": 4882,
-      "sha256": "164ebe67bc5a7f98867d77bb7798133c908b3c36e43950d9db79f1fa699f8c8e"
+      "bytes": 4843,
+      "sha256": "00cc5efcc2bb46b1adec62c57ed3c948a3e8a9982926f8684e79335203e7b0cd"
     },
     "README.zh-TW.md": {
-      "bytes": 2514,
-      "sha256": "9e0946041515ae97c0a76c070235756f84904c0ac09aea6b2bd67a7b92e9728b"
+      "bytes": 2469,
+      "sha256": "7102e2c83d430669d7b50ef3e89d053493954ec8634a4bd135964efd313ee872"
     },
     "RELEASE_NOTES.md": {
       "bytes": 2841,
@@ -52,10 +52,6 @@
       "bytes": 3055,
       "sha256": "e99ca57b9359c0340bc46f39dc42f94fd6ddff6690af57afd142c7bd704a600d"
     },
-    "docs/PUBLISH_ZH.md": {
-      "bytes": 2681,
-      "sha256": "2c4cf37ff3e4d6e323bda356f5234e16a88152776c678052372af5f5220bbdee"
-    },
     "docs/VALIDATION.md": {
       "bytes": 4829,
       "sha256": "229e74baa1b060e10cd966e3bfb059f9d393ff1202c0c2a9c3974110f1d97589"
@@ -65,8 +61,8 @@
       "sha256": "51d08c18c808b83e030a133fbd2e05120e7cf6fbf26e3c356a488f1e9f8992b8"
     },
     "release-files.txt": {
-      "bytes": 818,
-      "sha256": "3580fd17851e18cd1609ce395f28c755ef816e2fb0bb3b7aaae8478c1afcec42"
+      "bytes": 799,
+      "sha256": "1f1cecf06c04aab31a7920e35fe09d5bca351864a339f06bdd51d2dc953296dd"
     },
     "requirements-tested.txt": {
       "bytes": 222,
