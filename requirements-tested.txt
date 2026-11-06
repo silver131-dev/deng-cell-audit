@@ -1,0 +1,9 @@
+# Reproduction pins for the locally tested Python 3.12 environment.
+# This is a version pin set, not a platform-independent hash lock.
+numpy==2.3.5
+h5py==3.16.0
+scipy==1.17.0
+pytest==9.0.2
+build==1.4.0
+setuptools==84.2.1
+

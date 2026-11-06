@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=77,<85"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deng-cell-audit"
+version = "0.1.0rc3"
+description = "Offline control statistics and white-box cell perturbation auditing"
+readme = "README.md"
+requires-python = ">=3.12"
+authors = [{name = "ARiN"}]
+license = "MIT"
+license-files = ["LICENSE", "DATA_AND_THIRD_PARTY_RIGHTS.md"]
+dependencies = ["numpy>=2.3,<3", "h5py>=3.14,<4"]
+keywords = ["single-cell", "reproducibility", "perturbation", "audit"]
+
+[project.optional-dependencies]
+test = ["pytest>=9,<10", "scipy>=1.17,<2", "build>=1.4,<2"]
+
+[project.scripts]
+deng-cell-audit = "deng_cell_audit.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+

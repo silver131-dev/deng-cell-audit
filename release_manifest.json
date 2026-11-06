@@ -1,0 +1,148 @@
+{
+  "files": {
+    ".gitattributes": {
+      "bytes": 121,
+      "sha256": "531c46cac01e9e4c135f27fae790df80557838680b9929870f2136145a4d677c"
+    },
+    ".github/workflows/ci.yml": {
+      "bytes": 1234,
+      "sha256": "d0720aa7df745acfb411e0ae2ff74a8a5aa1c971f3dfea19728c2f654f81c815"
+    },
+    ".gitignore": {
+      "bytes": 172,
+      "sha256": "1832ca88389c23551af3294afad7083ccb35eaab2210bccd6b99e3a028a3ed8d"
+    },
+    "DATA_AND_THIRD_PARTY_RIGHTS.md": {
+      "bytes": 8037,
+      "sha256": "9cbd7250f15d7da9c3ac93a22c2bed60ca55cea8438f302ec2f6b031243349f8"
+    },
+    "LICENSE": {
+      "bytes": 1061,
+      "sha256": "41ab0fff381bf9b350923d9a613b9b33fc2e2729b9a7e68fafae031b9476454a"
+    },
+    "LICENSE_DECISION.md": {
+      "bytes": 1500,
+      "sha256": "1fce07b32d501fd8325ba85f504d3043ca4f059f83948b83161ee1812bb44e4f"
+    },
+    "MANIFEST.in": {
+      "bytes": 468,
+      "sha256": "92523efa2a035dc5dc5c333f89ff16ae8223aed8e70e74cbfcda34b7281aab49"
+    },
+    "README.md": {
+      "bytes": 4882,
+      "sha256": "164ebe67bc5a7f98867d77bb7798133c908b3c36e43950d9db79f1fa699f8c8e"
+    },
+    "README.zh-TW.md": {
+      "bytes": 2514,
+      "sha256": "9e0946041515ae97c0a76c070235756f84904c0ac09aea6b2bd67a7b92e9728b"
+    },
+    "RELEASE_NOTES.md": {
+      "bytes": 2841,
+      "sha256": "711b10d408a398b44b967d7851f90c11454f843bbb163495a02b13bc0a84d2f6"
+    },
+    "docs/DATA_CONTRACT.md": {
+      "bytes": 3011,
+      "sha256": "e18f2a31134183cc666defc4f93847b4101deea67d7eae3db8e9a5fb30de2ba9"
+    },
+    "docs/METHODS.md": {
+      "bytes": 4858,
+      "sha256": "58a538b77da7bea225fabfb2f1a45c3f76309274aef85ad5aeb4b459083f1e15"
+    },
+    "docs/NAMING.md": {
+      "bytes": 3055,
+      "sha256": "e99ca57b9359c0340bc46f39dc42f94fd6ddff6690af57afd142c7bd704a600d"
+    },
+    "docs/PUBLISH_ZH.md": {
+      "bytes": 2681,
+      "sha256": "2c4cf37ff3e4d6e323bda356f5234e16a88152776c678052372af5f5220bbdee"
+    },
+    "docs/VALIDATION.md": {
+      "bytes": 4829,
+      "sha256": "229e74baa1b060e10cd966e3bfb059f9d393ff1202c0c2a9c3974110f1d97589"
+    },
+    "pyproject.toml": {
+      "bytes": 777,
+      "sha256": "51d08c18c808b83e030a133fbd2e05120e7cf6fbf26e3c356a488f1e9f8992b8"
+    },
+    "release-files.txt": {
+      "bytes": 818,
+      "sha256": "3580fd17851e18cd1609ce395f28c755ef816e2fb0bb3b7aaae8478c1afcec42"
+    },
+    "requirements-tested.txt": {
+      "bytes": 222,
+      "sha256": "ce4f57092eded5352468060bb50b441f989d36b4608d95afc768c1ce06caf073"
+    },
+    "src/deng_cell_audit/__init__.py": {
+      "bytes": 113,
+      "sha256": "c84c55cc219b28e0b6493ab4fa5a654a263200c08cfcf5e7643569d8a295cbcb"
+    },
+    "src/deng_cell_audit/__main__.py": {
+      "bytes": 48,
+      "sha256": "935a1c1166b0c1ea35a82256345000bf2c73ded718d77773bc27a71ecce28f7d"
+    },
+    "src/deng_cell_audit/association.py": {
+      "bytes": 1998,
+      "sha256": "b26402b1765efdb6fad73327f687c42c675cf20f14c18e3703c5cd1d31ebc4d0"
+    },
+    "src/deng_cell_audit/checks.py": {
+      "bytes": 1197,
+      "sha256": "ce8ef28df9362e33f3d048a29c09fb8025f8ab93c5dc66bc318d8f7818d03a44"
+    },
+    "src/deng_cell_audit/cli.py": {
+      "bytes": 1402,
+      "sha256": "3c26a2391ed139666f8a2c99a5599b0edf20a251b78373e288e82ceae023e29f"
+    },
+    "src/deng_cell_audit/decomposition.py": {
+      "bytes": 1272,
+      "sha256": "fc3f990a7781fb756de62171164c3dfdd2d9b9aa3743163d71fc99286c5342ed"
+    },
+    "src/deng_cell_audit/demo.py": {
+      "bytes": 5357,
+      "sha256": "75c708d14ae912ceb3799cdb66dfafc21c5b95253a30873add6c1db529cca1f7"
+    },
+    "src/deng_cell_audit/evidence.py": {
+      "bytes": 2913,
+      "sha256": "6f65425184c0aeb7a74da3fe92850baa6e511ac144b3e87beb3d7f9dff97478d"
+    },
+    "src/deng_cell_audit/h5ad.py": {
+      "bytes": 5160,
+      "sha256": "01aa37f860c4ad0d731405945ae85fbffa69798a76cfff93b60c2c029fee22e3"
+    },
+    "src/deng_cell_audit/ntc.py": {
+      "bytes": 4573,
+      "sha256": "29f25d48feb952cd32e97dc9196a7c9d7651becaa0e283b31a41521b178c9c25"
+    },
+    "src/deng_cell_audit/operator.py": {
+      "bytes": 3270,
+      "sha256": "4877862f26194b27f4c590b6f939b4dc6d9000138ce58efb06f55526524c4438"
+    },
+    "src/deng_cell_audit/replay.py": {
+      "bytes": 5336,
+      "sha256": "b200fc97c2d69b165f09a8a1f1505a7c9ea33a809177263ae6571485232a6b87"
+    },
+    "tests/test_numerics.py": {
+      "bytes": 7085,
+      "sha256": "618d4a29ca988f003ed5849a88f9fa3d13f339a80b828f95f6b8c28f49547e20"
+    },
+    "tests/test_release.py": {
+      "bytes": 3640,
+      "sha256": "e326773432e36ab3182106e29930ca1923457cf271399b50585bcd5b6c35394a"
+    },
+    "tests/test_replay.py": {
+      "bytes": 6513,
+      "sha256": "f9758ebaab38c916150f3077278435a1360b44b717e0d89169a1b913ff1bc9f0"
+    },
+    "tools/build_release.py": {
+      "bytes": 1683,
+      "sha256": "61079215f56121a8dcfa7942781d24b87db3f25bb27c7ae7b49ef3d08091cc99"
+    },
+    "tools/verify_release.py": {
+      "bytes": 4792,
+      "sha256": "92fc3a042a3ec3b8a6dbff93900255cd53a7e9a541ff43db58b11ce89769e545"
+    }
+  },
+  "license": "MIT",
+  "license_decision": "SELECTED",
+  "schema": "DENG_RELEASE_MANIFEST_V1",
+  "version": "0.1.0rc3"
+}
